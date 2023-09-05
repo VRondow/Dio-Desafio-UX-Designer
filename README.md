@@ -19,3 +19,7 @@ Desafio de Design System
 https://www.figma.com/file/g3k8LVxbjrqS3aJNztK24M/Projeto-de-Design-System?type=design&node-id=1%3A2&mode=design&t=nSqK8P2gBtgO72Fb-1
 
 Projeto de Design System, aplicando tipografia, espaçamentos e cores.
+
+Entrega da atividade de mockup e prototipação
+https://www.figma.com/file/Qjiha1KY07huJGD3Wv0lfJ/My-Library?type=design&node-id=7%3A89093&mode=design&t=PunePsrTBGzW9b3q-1
+
